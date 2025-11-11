@@ -33,10 +33,7 @@ Here’s a selection of projects from our organization. Screenshots included for
 **Description:** Manage your tasks with this interactive To-Do application. Add, delete, and mark tasks as completed.  
 **Repository:** [To-Do App](https://github.com/Jones-6199/todo-app)
 
-### 3️⃣ Coffee Shop Menu
-![Coffee Shop Screenshot](./screenshots/coffee-shop.png)  
-**Description:** A beautiful coffee shop menu with responsive design and interactive elements.  
-**Repository:** [Coffee Shop Menu](https://github.com/Jones-6199/coffee-shop)
+
 
 > Add more project screenshots here as your organization grows!
 
